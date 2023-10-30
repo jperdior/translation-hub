@@ -1,0 +1,33 @@
+# ides
+*.bak
+*.orig
+*.swp
+*.tmp
+*.tmproj
+.idea
+.idea/
+.project
+.vscode
+.vscode/
+
+# terraform
+*.tfstate*
+.terraform*
+.terraform.lock.hcl
+
+# helm
+.tool-versions
+.helm/
+helm/
+
+# node.js
+node_modules
+
+# php
+.php_cs.cache
+.phplint-cache
+.phpunit
+.phpunit.result.cache
+public/bundles/
+var/
+vendor/

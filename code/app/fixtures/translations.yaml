@@ -1,0 +1,8 @@
+# api/fixtures/translations.yaml
+App\TranslationComponent\Domain\Entity\Translation:
+  translation_{1}:
+    sourceText: 'I am your father'
+    translatedText: 'Ich bin dein Vater'
+    sourceLanguage: 'EN'
+    targetLanguage: 'DE'
+    status: 2
